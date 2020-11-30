@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lunar-app/static/css/main.8b1c35ed.chunk.css",
+    "main.js": "/lunar-app/static/js/main.3f8adfdc.chunk.js",
+    "main.js.map": "/lunar-app/static/js/main.3f8adfdc.chunk.js.map",
+    "runtime-main.js": "/lunar-app/static/js/runtime-main.da058900.js",
+    "runtime-main.js.map": "/lunar-app/static/js/runtime-main.da058900.js.map",
+    "static/js/2.97b1fbc4.chunk.js": "/lunar-app/static/js/2.97b1fbc4.chunk.js",
+    "static/js/2.97b1fbc4.chunk.js.map": "/lunar-app/static/js/2.97b1fbc4.chunk.js.map",
+    "index.html": "/lunar-app/index.html",
+    "precache-manifest.8721a19f6b66e42d4bd8163ff04222a7.js": "/lunar-app/precache-manifest.8721a19f6b66e42d4bd8163ff04222a7.js",
+    "service-worker.js": "/lunar-app/service-worker.js",
+    "static/css/main.8b1c35ed.chunk.css.map": "/lunar-app/static/css/main.8b1c35ed.chunk.css.map",
+    "static/js/2.97b1fbc4.chunk.js.LICENSE.txt": "/lunar-app/static/js/2.97b1fbc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da058900.js",
+    "static/js/2.97b1fbc4.chunk.js",
+    "static/css/main.8b1c35ed.chunk.css",
+    "static/js/main.3f8adfdc.chunk.js"
+  ]
+}
